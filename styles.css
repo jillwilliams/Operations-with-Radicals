@@ -28,14 +28,20 @@ h1 {
 #pic1, #pic2 {
     width: 50%;
     height: auto;
-    margin: 15px 25% 15px 25%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 25%;
+    margin-right: 25%;
     border: 2px purple solid;
     outline: 1px grey solid;
 }
 #pic3, #pic4, #pic5 {
     width: 60%;
     height: auto;
-    margin: 15px 20% 15px 20%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 15px;
+    margin-bottom: 15px;
     border: 2px purple solid;
     outline: 1px grey solid;
 }
