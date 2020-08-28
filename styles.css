@@ -25,6 +25,20 @@ h1 {
     color: purple;
     text-align: center;
 }
+#pic1, #pic2 {
+    width: 50%;
+    height: auto;
+    margin: 15px 25% 15px 25%;
+    border: 2px purple solid;
+    outline: 1px grey solid;
+}
+#pic3, #pic4, #pic5 {
+    width: 60%;
+    height: auto;
+    margin: 15px 20% 15px 20%;
+    border: 2px purple solid;
+    outline: 1px grey solid;
+}
 iframe {
     margin: 15px 33% 15px 33%;
     border: 2px rgb(45,45,46) solid;
