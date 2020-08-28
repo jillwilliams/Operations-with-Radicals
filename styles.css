@@ -1,0 +1,36 @@
+body {
+    font-family: "Pangolin";
+    letter-spacing: 3px;
+    font-size: 1.5rem;
+    background-color: rgb(211,110,47);
+    color: purple;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 25px;
+}
+h1 {
+    text-align: center;
+    color: grey;
+    text-shadow: 1px 1px 4px blue;
+}
+#para1 {
+    width: 80%;
+    height: auto;
+    background-color: gray;
+    border: 2px rgb(45,45,46) solid;
+    outline: 2px blue solid;
+    padding: 25px;
+    margin: 15px 10% 15px 10%;
+    font-family: "Pangolin";
+    color: purple;
+    text-align: center;
+}
+iframe {
+    margin: 15px 33% 15px 33%;
+    border: 2px rgb(45,45,46) solid;
+    outline: 2px blue solid;
+}
+footer {
+    font-size: 1rem;
+    text-align: center;
+}
